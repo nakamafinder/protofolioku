@@ -28,5 +28,23 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.5",
     "vite": "^6.3.5"
-  }
+  },
+  "description": "web portofolio simple with reactjs 19 and tailwindcss 4",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakamafinder/protofolioku.git"
+  },
+  "keywords": [
+    "reactjs",
+    "tailwindcss",
+    "portofolio",
+    "simple"
+  ],
+  "author": "nakamafinder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakamafinder/protofolioku/issues"
+  },
+  "homepage": "https://github.com/nakamafinder/protofolioku#readme"
 }
